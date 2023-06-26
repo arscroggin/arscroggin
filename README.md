@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Software Engineer and Full Stack CEO. I have a degree in Electrical and Computer Engineering from Purdue. I have built several products over the years. I help run [LFT Software](https://lftsoftware.co) and [LFT Health](https://lft-health.co)
+I am a Software Engineer and Full Stack CEO. I have a degree in Electrical and Computer Engineering from Purdue. I have built several products over the years. I help run [LFT Software](https://lftsoftware.co) and [LFT Health](https://lft-health.co). I have been in the coding and engineering game for over 25 years now!
 
 - 🔭 I’m currently working on a NextJS and Supabase app. And and iOS and Android app with React Native.
 - 🌱 I’m currently learning about Psychology, UX/UI, Intellectual Property and Human Behavior
