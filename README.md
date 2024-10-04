@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Software Engineer and Full Stack CEO. I have a degree in Electrical and Computer Engineering from Purdue and have built several products over the years.
+I build and fix things. I have a degree in Electrical and Computer Engineering from Purdue and have built several products over the years.
 
 - 🔭 I’m currently working on a Next.JS and Supabase app. And and iOS and Android app with React Native.
 - 💻 I also do C#, .NET8 and WPF
